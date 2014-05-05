@@ -14,6 +14,6 @@ A simple Rest API demo using flask and flask-restful:
 - https://nfsnfs.net/coolloud_action/getdate/2014/5/1
 - https://nfsnfs.net/coolloud_action/getmonth/2014/5
 
-* getdate/<year>/<month>/<day>
-* getmonth/<year>/<month>
+* getdate/*year*/*month*/*day*
+* getmonth/*year*/*month*
 
